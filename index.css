@@ -38,9 +38,14 @@
   margin-bottom: 30px;
   width: 300px;
 }
-#border, #border2 {
+  #border {
     border-top: none;
     border-left: none;
     border-right: none;
+    background-color: #ebeae8;
   }
-  
+  #border2 {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #ebeae8;
